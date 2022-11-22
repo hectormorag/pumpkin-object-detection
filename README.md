@@ -1,14 +1,9 @@
-# Color Splash Example
+# Object Detection Using RCNN On Halloween Pumpkins 
 
-This is an example showing the use of Mask RCNN in a real application.
-We train the model to detect balloons only, and then we use the generated 
-masks to keep balloons in color while changing the rest of the image to
-grayscale.
+On this repository I present the results and source code for a grad school project to detect halloween pumpkins usin RCNN using the pretrained COCO weights. This project implements the code found on the project "Mask R-CNN for Object Detection and Segmentation" to achieve the final goal. 
 
+![This blog post](https://github.com/hectormorag/pumpkin-object-detection/blob/main/samples/balloon/PumpkinVideo.gif) 
 
-[This blog post](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46) describes this sample in more detail.
-
-![Balloon Color Splash](/assets/balloon_color_splash.gif)
 
 
 ## Installation
