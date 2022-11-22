@@ -4,6 +4,10 @@ On this repository I present the results and source code for a grad school proje
 
 ![This blog post](https://github.com/hectormorag/pumpkin-object-detection/blob/main/samples/balloon/PumpkinVideo.gif) 
 
+![This blog post](https://github.com/hectormorag/pumpkin-object-detection/blob/main/images/screenshot.jpg) 
+
+
+
 
 
 ## Installation
