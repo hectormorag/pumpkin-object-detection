@@ -7,7 +7,7 @@ On this repository I present the results and source code for a grad school proje
 
 
 ## Installation
-From the [Releases page](https://github.com/matterport/Mask_RCNN/releases) page:
+From this repository:
 1. Download `mask_rcnn_balloon.h5`. Save it in the root directory of the repo (the `mask_rcnn` directory).
 2. Download `balloon_dataset.zip`. Expand it such that it's in the path `mask_rcnn/datasets/balloon/`.
 
