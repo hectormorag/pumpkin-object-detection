@@ -54,6 +54,17 @@ python pumpkin.py train --dataset=/path/to/balloon/dataset --weights=imagenet
 The code in `pumpkin.py` is set to train for 3K steps (30 epochs of 100 steps each), and using a batch size of 2. 
 Update the schedule to fit your needs.
 
+![This blog post](https://github.com/hectormorag/pumpkin-object-detection/blob/main/samples/balloon/PumpkinVideo.gif) 
+
 ## Evaluation
 
 This section shows the inner process of how the network does the ROI segmentation by showing some examples of the masking done on different regions of pixels inside the images in order to show the performance of our model. 
+
+![This blog post](https://github.com/hectormorag/pumpkin-object-detection/blob/main/samples/balloon/PumpkinVideo.gif) 
+
+![This blog post](https://github.com/hectormorag/pumpkin-object-detection/blob/main/samples/balloon/PumpkinVideo.gif) 
+
+![This blog post](https://github.com/hectormorag/pumpkin-object-detection/blob/main/samples/balloon/PumpkinVideo.gif) 
+note
+![This blog post](https://github.com/hectormorag/pumpkin-object-detection/blob/main/samples/balloon/PumpkinVideo.gif) 
+
