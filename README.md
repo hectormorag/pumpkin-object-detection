@@ -1,4 +1,4 @@
-# Object Detection Using RCNN On Halloween Pumpkins 
+# Report - Object Detection Using RCNN On Halloween Pumpkins 
 
 On this repository I present the results and source code for a grad school project to detect halloween pumpkins usin RCNN using the pretrained COCO weights. This project implements the code found on the project "Mask R-CNN for Object Detection and Segmentation" to achieve the final goal, training on a set of my own images. The labelling was done using the labelling tool of the VGG Oxford group. This is an example of how the model can be used. 
 
