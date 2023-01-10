@@ -49,5 +49,7 @@ Train a new model starting from ImageNet weights
 python pumpkin.py train --dataset=/path/to/balloon/dataset --weights=imagenet
 ```
 
-##The code in `pumpkin.py` is set to train for 3K steps (30 epochs of 100 steps each), and using a batch size of 2. 
+## Parameters
+
+The code in `pumpkin.py` is set to train for 3K steps (30 epochs of 100 steps each), and using a batch size of 2. 
 Update the schedule to fit your needs.
